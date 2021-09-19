@@ -10,12 +10,12 @@ export const initialState = {
     elements: [],
   },
   currentSong: {
-    data: {},
+    data: null,
   },
 };
 
 const bigReducer = combineReducers({
-  song: songReducer,
+  currentSong: songReducer,
   likedSongs: likedReducer,
 });
 

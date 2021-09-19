@@ -9,7 +9,7 @@ const NavBar = (props) => {
     <div className="big-nav-container p-1 pt-4">
       <div className="nav-cont-logo px-4 mb-4">
         <img
-          src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_CMYK_White.png"
+          src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_RGB_White.png"
           alt="spotify-logo"
           className="img-fluid"
         />
