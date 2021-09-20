@@ -16,7 +16,7 @@ a:hover {
   left: 0;
   bottom: 9vh;
   background-color: black;
-  width: 13vw;
+  width: 14rem;
 }
 
 .nav-cont-logo img {
@@ -61,7 +61,7 @@ a:hover {
   );
   width: 100%;
   min-height: 120vh;
-  padding-left: 13vw;
+  padding-left: 15rem;
   padding-bottom: 7rem;
 }
 
@@ -70,7 +70,7 @@ a:hover {
 .top-nav-cont {
   position: fixed;
   top: 0;
-  left: 13vw;
+  left: 14rem;
   right: 0;
   height: 4rem;
 }
@@ -89,7 +89,7 @@ a:hover {
 
 .circle-top-nav {
   background-color: #0a0a0a;
-  color: #A0A0A0;
+  color: #a0a0a0;
   font-size: 1.5rem;
   width: 2rem;
   height: 2rem;
